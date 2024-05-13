@@ -84,13 +84,6 @@ const Navbar = () => {
           <div></div>
         </div>
       </nav>
-      <div>
-        <img
-          src={require("../Assets/Hjk.png")}
-          alt=""
-          className="md:h-[520px] h-auto w-full"
-        />
-      </div>
     </>
   );
 };

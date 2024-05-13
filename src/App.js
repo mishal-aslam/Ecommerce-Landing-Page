@@ -6,11 +6,12 @@ import Navbar from './Components/Navbar';
 import OurCommitment from './Components/OurCommitment';
 import OurServices from './Components/OurServices';
 import Testimonials from './Components/Testimonials'
-
+import Hero from './Components/Hero'
 function App() {
   return (
     <>
    <Navbar />
+   <Hero />
    <JewelryType />
    <OurCommitment />
    <LatestJewelry />
